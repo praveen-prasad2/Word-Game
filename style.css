@@ -1,0 +1,88 @@
+.main {
+    width: 600px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: 1px solid orangered;
+
+    background: url("https://media.istockphoto.com/id/1207278086/photo/word-ok-on-yellow-background.jpg?s=170667a&w=0&k=20&c=I668rswYLtfCmNXQpnTcqsIHPHdck8_c5Q4aXwGOKuc=")
+}
+
+.head1 {
+    color: white;
+    margin-left: 150px;
+    font-family: 'Rubik Marker Hatch', cursive;
+    font-size: 40px;
+}
+
+.btn1 {
+    margin-left: 250px;
+    width: 100px;
+    height: 35px;
+    border-radius: 80px;
+    border: 1px solid orange;
+    background-color: orangered;
+    color: white;
+    font-size: 25px;
+    font-weight: 10px;
+    /* font-family: 'Permanent Marker', cursive; */
+
+}
+
+.text {
+    margin-top: 85px;
+    margin-left: 150px;
+    height: 35px;
+    width: 200px;
+    /* background-color: ; */
+    border: none;
+    box-shadow: 20px;
+    border-radius: 10px;
+    border: 1px solid orangered;
+
+
+}
+
+
+.btn2 {
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background-color: orangered;
+    color: white;
+    /* font-family: 'Permanent Marker', cursive; */
+}
+
+.btn3 {
+    margin-left: 160px;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 80px;
+    border: 1px solid orange;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    font-weight: 15px;
+    visibility: hidden;
+    /* font-family: 'Permanent Marker', cursive; */
+}
+
+/* .paradiv {
+    margin-left: 250px;
+    margin-top: 28px;
+} */
+
+.para1 {
+    font-weight: 50px;
+    font-size: 20px;
+    color: orangered;
+    /* font-family: 'Permanent Marker', cursive; */
+}
+
+.textfield {
+    visibility: hidden;
+}
